@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thisrahul
 - 👀 I’m interested in Android app Development
-- 🌱 I’m currently in 2nd year BCA
+- 🌱 I’m currently in 3rd year BCA
 - 💞️ I’m looking to collaborate on Android projects
 - 📫 reach me https://www.linkedin.com/in/thisrahul/
 
