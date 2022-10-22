@@ -6,17 +6,20 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Rahul Raghuwanshi</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-  <br>
-   <img src="https://holopin.me/thisrahul" />  
-  <br>
-
 <p align="center">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />  
   </p>
+  
+  <p align="center">
+ <img src="https://user-images.githubusercontent.com/52368582/197347895-4e513dc1-d435-4b5f-98f7-e82fe5276a4c.gif" />
+  </p>
 
+  <br>
+   <img src="https://holopin.me/thisrahul" />  
+  <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisrahul" alt="thisrahul" /></a> </p>
 
